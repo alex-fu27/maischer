@@ -1,0 +1,40 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "Top",
+    "net_class_default": "dcdc8831-7b23-416a-8a35-1ecb3f411a08",
+    "net_classes": {
+        "dcdc8831-7b23-416a-8a35-1ecb3f411a08": {
+            "name": "default"
+        }
+    },
+    "nets": {},
+    "project_meta": {
+        "author": "Alexander Fuchs",
+        "date": "2023-09-10",
+        "project_name": "maischer",
+        "project_title": "Maischer",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "807ae457-e26b-49e3-8d04-d592202171e1"
+}

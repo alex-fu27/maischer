@@ -1,0 +1,10 @@
+{
+    "default_frame": "00000000-0000-0000-0000-000000000000",
+    "default_via": "00000000-0000-0000-0000-000000000000",
+    "name": "Project pool",
+    "pools_included": [
+        "58ee9515-3437-4aeb-a6c1-749298633f8e"
+    ],
+    "type": "pool",
+    "uuid": "466088f9-3f15-420d-af8a-fff902537aed"
+}

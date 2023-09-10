@@ -1,0 +1,51 @@
+{
+    "annotation": {
+        "fill_gaps": true,
+        "ignore_unknown": false,
+        "keep": true,
+        "mode": "sheet_100",
+        "order": "right_down"
+    },
+    "block": "807ae457-e26b-49e3-8d04-d592202171e1",
+    "group_tag_visible": false,
+    "name": "",
+    "pdf_export_settings": {
+        "min_line_width": 0,
+        "output_filename": ""
+    },
+    "rules": {
+        "connectivity": {
+            "enabled": true,
+            "include_unnamed": true,
+            "order": -1
+        }
+    },
+    "sheets": {
+        "8fde0750-d722-4963-a495-fdee73f165e4": {
+            "arcs": {},
+            "block_symbols": {},
+            "bus_labels": {},
+            "bus_rippers": {},
+            "index": 1,
+            "junctions": {},
+            "lines": {},
+            "name": "First sheet",
+            "net_labels": {},
+            "net_lines": {},
+            "power_symbols": {},
+            "symbols": {},
+            "texts": {},
+            "title_block_values": {}
+        }
+    },
+    "title_block_values": {
+        "author": "Alexander Fuchs",
+        "date": "2023-09-10",
+        "project_name": "maischer",
+        "project_title": "Maischer",
+        "rev": "1"
+    },
+    "type": "schematic_block",
+    "uuid": "0c8c1905-ea51-46ce-a166-a5376b0b2b61",
+    "version": 8
+}
