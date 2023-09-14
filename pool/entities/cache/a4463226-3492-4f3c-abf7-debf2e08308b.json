@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "f2f63551-2fe3-42ce-8afd-d501aae83f48": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e5410dd2-87ad-4c36-9a9b-08117c4947e8"
+        }
+    },
+    "manufacturer": "",
+    "name": "Jumper",
+    "prefix": "JP",
+    "tags": [
+        "jumper",
+        "mechanical",
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "a4463226-3492-4f3c-abf7-debf2e08308b"
+}

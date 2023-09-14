@@ -1,0 +1,432 @@
+{
+    "manufacturer": "Espressif",
+    "name": "ESP32-S2-WROOM ",
+    "pins": {
+        "02fba9b7-d5f7-41a0-872b-f6183a1d241d": {
+            "direction": "bidirectional",
+            "names": [
+                "SPIIO5",
+                "GPIO34",
+                "FSPICS0"
+            ],
+            "primary_name": "IO34",
+            "swap_group": 0
+        },
+        "0d381f1c-cd8c-4ea3-9b59-1163259370ce": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO11",
+                "GPIO11",
+                "TOUCH11",
+                "ADC2_CH0",
+                "FSPID",
+                "FSPIIO5"
+            ],
+            "primary_name": "IO11",
+            "swap_group": 0
+        },
+        "14ce6fd4-7f51-4c9b-ba90-047cd6f63ca9": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO19",
+                "GPIO19",
+                "U1RTS",
+                "ADC2_CH8",
+                "CLK_OUT2",
+                "USB_D-"
+            ],
+            "primary_name": "IO19",
+            "swap_group": 0
+        },
+        "1b04ddc7-cff6-4e51-835e-6b8b3b27c9a1": {
+            "direction": "bidirectional",
+            "names": [
+                "MTCK",
+                "GPIO39",
+                "CLK_OUT3"
+            ],
+            "primary_name": "IO39",
+            "swap_group": 0
+        },
+        "2c5b2c3d-6f83-4778-ae8f-ea978418f896": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "2fbb71c8-badd-4200-98a8-6aaf27f457a0": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO15",
+                "GPIO15",
+                "U0RTS",
+                "ADC2_CH4",
+                "XTAL_32K_P"
+            ],
+            "primary_name": "IO15",
+            "swap_group": 0
+        },
+        "31b770a6-72a2-4a8f-832a-85f388870a6c": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO9",
+                "GPIO9",
+                "TOUCH9",
+                "ADC1_CH8",
+                "FSPIHD"
+            ],
+            "primary_name": "IO9",
+            "swap_group": 0
+        },
+        "325855b6-5924-4c55-8d6f-014bc1c8af64": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO1",
+                "GPIO1",
+                "TOUCH1",
+                "ADC1_CH0"
+            ],
+            "primary_name": "IO1",
+            "swap_group": 0
+        },
+        "34e27955-716d-452e-b47b-3adcfda90e00": {
+            "direction": "bidirectional",
+            "names": [
+                "MTDI",
+                "GPIO41",
+                "CLK_OUT1"
+            ],
+            "primary_name": "IO41",
+            "swap_group": 0
+        },
+        "35289122-d42d-475b-ace5-1551d3ea340c": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO17",
+                "GPIO17",
+                "U1TXD",
+                "ADC2_CH6",
+                "DAC_1"
+            ],
+            "primary_name": "IO17",
+            "swap_group": 0
+        },
+        "3adf18be-9f23-461c-a256-572931014f47": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO0",
+                "GPIO0"
+            ],
+            "primary_name": "IO0",
+            "swap_group": 0
+        },
+        "3e7b4790-a608-4f00-a1bc-4eabf1bfac0f": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO21",
+                "GPIO21"
+            ],
+            "primary_name": "IO21",
+            "swap_group": 0
+        },
+        "482cda58-3c57-4c17-a454-a9bca0342950": {
+            "direction": "bidirectional",
+            "names": [
+                "MTDO",
+                "GPIO40",
+                "CLK_OUT2"
+            ],
+            "primary_name": "IO40",
+            "swap_group": 0
+        },
+        "536af486-c7f7-462f-b983-b5c4b7a36faf": {
+            "direction": "bidirectional",
+            "names": [
+                "SPIIO4",
+                "GPIO33",
+                "FSPIHD"
+            ],
+            "primary_name": "IO33",
+            "swap_group": 0
+        },
+        "5618703d-26ff-4ea2-b39b-30a52c15d266": {
+            "direction": "bidirectional",
+            "names": [
+                "SPIDQS",
+                "GPIO37",
+                "FSPIQ"
+            ],
+            "primary_name": "IO37",
+            "swap_group": 0
+        },
+        "56c48106-3eb9-47eb-b32d-3e1099d429b3": {
+            "direction": "input",
+            "names": [
+                "GPIO46"
+            ],
+            "primary_name": "IO46",
+            "swap_group": 0
+        },
+        "5f6c6f0e-9dcc-47dc-b518-5e4067481b83": {
+            "direction": "power_input",
+            "names": [
+                "Power",
+                "supply"
+            ],
+            "primary_name": "3V3",
+            "swap_group": 0
+        },
+        "607672ee-db90-405d-a8c2-c29cf1ad0633": {
+            "direction": "bidirectional",
+            "names": [
+                "GPIO38",
+                "FSPIWP"
+            ],
+            "primary_name": "IO38",
+            "swap_group": 0
+        },
+        "631a4e47-507e-4837-8abf-2d469fb52891": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO7",
+                "GPIO7",
+                "TOUCH7",
+                "ADC1_CH6"
+            ],
+            "primary_name": "IO7",
+            "swap_group": 0
+        },
+        "66cb2ae8-11db-4475-91a1-9fa16cd9096f": {
+            "direction": "output",
+            "names": [
+                "U0TXD",
+                "GPIO43",
+                "CLK_OUT1"
+            ],
+            "primary_name": "TXD0",
+            "swap_group": 0
+        },
+        "70150456-d78a-459c-bf8d-3e5a6a1eb4ec": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO20",
+                "GPIO20",
+                "U1CTS",
+                "ADC2_CH9",
+                "CLK_OUT1",
+                "USB_D+"
+            ],
+            "primary_name": "IO20",
+            "swap_group": 0
+        },
+        "7200da80-0a54-4a8f-8e84-0c560a84cb1c": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO3",
+                "GPIO3",
+                "TOUCH3",
+                "ADC1_CH2"
+            ],
+            "primary_name": "IO3",
+            "swap_group": 0
+        },
+        "72f76ecf-15e7-45fc-91ef-c079a14bda01": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO16",
+                "GPIO16",
+                "U0CTS",
+                "ADC2_CH5",
+                "XTAL_32K_N"
+            ],
+            "primary_name": "IO16",
+            "swap_group": 0
+        },
+        "74218f1b-1f9c-495b-9215-db18f2e9b1a3": {
+            "direction": "input",
+            "names": [
+                "U0RXD",
+                "GPIO44",
+                "CLK_OUT2"
+            ],
+            "primary_name": "RXD0",
+            "swap_group": 0
+        },
+        "8467371d-d559-4ff1-937c-bd500642983d": {
+            "direction": "bidirectional",
+            "names": [
+                "MTMS",
+                "GPIO42"
+            ],
+            "primary_name": "IO42",
+            "swap_group": 0
+        },
+        "85c9b384-877c-4a5d-8445-c82cfdd56eb0": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO14",
+                "GPIO14",
+                "TOUCH14",
+                "ADC2_CH3",
+                "FSPIWP",
+                "FSPIDQS"
+            ],
+            "primary_name": "IO14",
+            "swap_group": 0
+        },
+        "967ec2de-9bb8-48a1-82eb-5ef5a1974303": {
+            "direction": "power_input",
+            "names": [
+                "Ground"
+            ],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "96bf6029-6d1d-440d-beec-46bee3db5841": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO18",
+                "GPIO18",
+                "U1RXD",
+                "ADC2_CH7",
+                "DAC_2",
+                "CLK_OUT3"
+            ],
+            "primary_name": "IO18",
+            "swap_group": 0
+        },
+        "ad1283e6-6015-40ff-ab05-02f9a031bfb4": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO2",
+                "GPIO2",
+                "TOUCH2",
+                "ADC1_CH1"
+            ],
+            "primary_name": "IO2",
+            "swap_group": 0
+        },
+        "adcbc4d4-24b2-4f80-aa79-4f4ae74b132a": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO5",
+                "GPIO5",
+                "TOUCH5",
+                "ADC1_CH4"
+            ],
+            "primary_name": "IO5",
+            "swap_group": 0
+        },
+        "b33b5f9f-e306-45f3-9b02-dfbbf9e3bc76": {
+            "direction": "bidirectional",
+            "names": [
+                "GPIO45"
+            ],
+            "primary_name": "IO45",
+            "swap_group": 0
+        },
+        "b9316283-8652-4a7e-a48d-b1e14be06620": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO13",
+                "GPIO13",
+                "TOUCH13",
+                "ADC2_CH2",
+                "FSPIQ",
+                "FSPIIO7"
+            ],
+            "primary_name": "IO13",
+            "swap_group": 0
+        },
+        "bbf57157-e1d5-486c-922c-75c258faa173": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO6",
+                "GPIO6",
+                "TOUCH6",
+                "ADC1_CH5"
+            ],
+            "primary_name": "IO6",
+            "swap_group": 0
+        },
+        "ccc6717e-9d0b-47e1-9b18-836e575f5f8b": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO8",
+                "GPIO8",
+                "TOUCH8",
+                "ADC1_CH7"
+            ],
+            "primary_name": "IO8",
+            "swap_group": 0
+        },
+        "d5cca1a8-40f5-42c7-b7c2-d65708231c46": {
+            "direction": "bidirectional",
+            "names": [
+                "SPICS1",
+                "GPIO26"
+            ],
+            "primary_name": "IO26",
+            "swap_group": 0
+        },
+        "dbc57e28-080d-45a4-8c63-461ca7088422": {
+            "direction": "bidirectional",
+            "names": [
+                "SPIIO7",
+                "GPIO36",
+                "FSPICLK"
+            ],
+            "primary_name": "IO36",
+            "swap_group": 0
+        },
+        "dc1defb9-65b1-4ec0-b507-a549687cab94": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO4",
+                "GPIO4",
+                "TOUCH4",
+                "ADC1_CH3"
+            ],
+            "primary_name": "IO4",
+            "swap_group": 0
+        },
+        "e2d6a2b3-3cce-4c7d-9e5d-85cae9e271ab": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO10",
+                "GPIO10",
+                "TOUCH10",
+                "ADC1_CH9",
+                "FSPICS0",
+                "FSPIIO4"
+            ],
+            "primary_name": "IO10",
+            "swap_group": 0
+        },
+        "f5afb88b-d958-4c0e-b6a0-eb33e218ce6c": {
+            "direction": "bidirectional",
+            "names": [
+                "SPIIO6",
+                "GPIO35",
+                "FSPID"
+            ],
+            "primary_name": "IO35",
+            "swap_group": 0
+        },
+        "f7e85368-ae59-4d74-a9c3-9e306c96f4f7": {
+            "direction": "bidirectional",
+            "names": [
+                "RTC_GPIO12",
+                "GPIO12",
+                "TOUCH12",
+                "ADC2_CH1",
+                "FSPICLK",
+                "FSPIIO6"
+            ],
+            "primary_name": "IO12",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7481c5b5-4e89-4936-b1c7-96750d4f53b8"
+}

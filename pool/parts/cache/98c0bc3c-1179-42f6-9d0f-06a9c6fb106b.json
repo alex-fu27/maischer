@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "PSSI2001SAY"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Constant current source"
+    ],
+    "entity": "a93c8db0-0664-4f00-b522-ca9dca9596ff",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "NXP"
+    ],
+    "model": "b7a19b51-324c-4ce9-91f8-ca7b2ab55465",
+    "package": "1e7c3ae3-1526-4b8c-8cb8-726207c3667d",
+    "pad_map": {
+        "15f6028d-b6d0-46e4-b9b9-716367c20e52": {
+            "gate": "8c0748e1-ad18-42b1-a421-d49cca0c695b",
+            "pin": "adbecef9-0a22-4ffc-8d54-9182d23fd6f9"
+        },
+        "5afe2207-9077-4f3a-99be-9513e98634c1": {
+            "gate": "8c0748e1-ad18-42b1-a421-d49cca0c695b",
+            "pin": "4a5c9010-e553-424d-b8f0-10b44e26466b"
+        },
+        "c28851fa-1824-44f1-849e-1c7571be475a": {
+            "gate": "8c0748e1-ad18-42b1-a421-d49cca0c695b",
+            "pin": "c85fbba6-37a5-4f50-9e71-261ad796e839"
+        },
+        "ebfdb9dd-81b5-4d3d-9e9b-05c93f156cb3": {
+            "gate": "8c0748e1-ad18-42b1-a421-d49cca0c695b",
+            "pin": "3d74d507-a952-4b5e-8c10-4662680db591"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "98c0bc3c-1179-42f6-9d0f-06a9c6fb106b",
+    "value": [
+        false,
+        ""
+    ]
+}

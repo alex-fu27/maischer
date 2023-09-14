@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "8c0748e1-ad18-42b1-a421-d49cca0c695b": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "322b9fb2-0567-46dc-a946-a4acdaa3b1f6"
+        }
+    },
+    "manufacturer": "NXP",
+    "name": "PSSI2001SAY",
+    "prefix": "U",
+    "tags": [
+        "current",
+        "source"
+    ],
+    "type": "entity",
+    "uuid": "a93c8db0-0664-4f00-b522-ca9dca9596ff"
+}

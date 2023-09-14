@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "1357d045-d729-4257-a564-871f8e2bf94c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7481c5b5-4e89-4936-b1c7-96750d4f53b8"
+        }
+    },
+    "manufacturer": "Espressif",
+    "name": "ESP32-S2-WROOM",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "104d0155-c61e-49a5-ae87-64678505b5dd"
+}

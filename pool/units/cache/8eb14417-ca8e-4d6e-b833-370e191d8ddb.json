@@ -1,0 +1,44 @@
+{
+    "manufacturer": "",
+    "name": "2 to 4 Jumper",
+    "pins": {
+        "0610e46f-576f-4364-8b41-a4fc9d386d4e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "50cb38b0-093c-43eb-9ada-84827d6e05e6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "5f654fff-1a88-4e30-a70e-90b770eea3c9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "a444e48b-aa1a-40b0-8ce2-15b9b3ae5bff": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "bdfc1be1-eeea-458e-ac63-49d6d3738a7e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "f9d7bb57-d4be-48e7-918f-770d933deed6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8eb14417-ca8e-4d6e-b833-370e191d8ddb"
+}

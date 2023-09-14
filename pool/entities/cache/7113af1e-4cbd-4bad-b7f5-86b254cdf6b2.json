@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "6dff88e1-be3d-4c01-816c-c6266ec68214": {
+            "name": "main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8eb14417-ca8e-4d6e-b833-370e191d8ddb"
+        }
+    },
+    "manufacturer": "",
+    "name": "2 to 4 Jumper",
+    "prefix": "",
+    "tags": [],
+    "type": "entity",
+    "uuid": "7113af1e-4cbd-4bad-b7f5-86b254cdf6b2"
+}

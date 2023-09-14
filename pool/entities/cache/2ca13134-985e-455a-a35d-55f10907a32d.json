@@ -1,0 +1,26 @@
+{
+    "gates": {
+        "cba924c6-b163-413d-be68-ea5b9ab1beca": {
+            "name": "Button",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "d5b9dc4b-7732-477d-bd7a-be760af429d5"
+        },
+        "de68d55b-7972-496f-93b4-fdb6c1931fef": {
+            "name": "Encoder",
+            "suffix": "E",
+            "swap_group": 0,
+            "unit": "3ad30523-3bf6-4c31-8d2d-35b0a04e8a97"
+        }
+    },
+    "manufacturer": "",
+    "name": "Generic 2-ch Rotary Encoder with Push Button",
+    "prefix": "SW",
+    "tags": [
+        "generic",
+        "momentary",
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "2ca13134-985e-455a-a35d-55f10907a32d"
+}

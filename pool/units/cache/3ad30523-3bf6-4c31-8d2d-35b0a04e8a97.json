@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "Generic 2-Channel Rotary Encoder",
+    "pins": {
+        "16b7b687-3e60-4a09-a5c7-0d4772e694c9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "9fdbb8ca-38a7-499d-bdb3-4cb17393346f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "ba2fcaf5-ab2d-4fc9-8750-fb7273f0a82d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3ad30523-3bf6-4c31-8d2d-35b0a04e8a97"
+}

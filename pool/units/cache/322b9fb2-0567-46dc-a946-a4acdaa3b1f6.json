@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "Prgrammable Constant Current Source",
+    "pins": {
+        "3d74d507-a952-4b5e-8c10-4662680db591": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "IOUT",
+            "swap_group": 0
+        },
+        "4a5c9010-e553-424d-b8f0-10b44e26466b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "REXT",
+            "swap_group": 0
+        },
+        "adbecef9-0a22-4ffc-8d54-9182d23fd6f9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VS",
+            "swap_group": 0
+        },
+        "c85fbba6-37a5-4f50-9e71-261ad796e839": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "322b9fb2-0567-46dc-a946-a4acdaa3b1f6"
+}
