@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "4-Channel Audio Jack",
+    "pins": {
+        "9d7f310e-1b19-4125-92a4-f43af3bb3c08": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Tip",
+            "swap_group": 0
+        },
+        "9e389aec-b3f5-46e5-9ee7-95bac0b3c82e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Ring 1",
+            "swap_group": 0
+        },
+        "a1f759ac-9c99-47b7-aab9-28b2efcf860f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Ring 2",
+            "swap_group": 0
+        },
+        "c4d880c1-4a28-4350-8ea2-964033cbdcb6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Sleeve",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8c67f2f3-d3fe-4605-bdeb-329d472bbcae"
+}

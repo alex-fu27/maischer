@@ -1,26 +1,26 @@
 {
     "manufacturer": "",
-    "name": "Triac",
+    "name": "Barrel Jack with Detection Switch",
     "pins": {
-        "0ff8a8e2-8837-4a54-8deb-4270fce98adb": {
+        "0cee8c20-0e6f-4c95-b994-62c945ef84a1": {
             "direction": "passive",
             "names": [],
-            "primary_name": "G",
+            "primary_name": "Tip",
             "swap_group": 0
         },
-        "b7770b69-dcad-44f4-879f-6f20e5d51db0": {
+        "1a9964a3-eda0-4caa-9fa5-b2abb31ce851": {
             "direction": "passive",
             "names": [],
-            "primary_name": "A1",
+            "primary_name": "Detection",
             "swap_group": 0
         },
-        "debe4001-d5f5-4fb6-86b8-3fede168904d": {
+        "a4f3f16c-8090-43dc-b241-ee01498d88fd": {
             "direction": "passive",
             "names": [],
-            "primary_name": "A2",
+            "primary_name": "Sleeve",
             "swap_group": 0
         }
     },
     "type": "unit",
-    "uuid": "bdf862f3-37b3-4e67-83a7-83a0c998faf8"
+    "uuid": "608e3c55-8f39-4e59-8647-3abdcd377fd9"
 }

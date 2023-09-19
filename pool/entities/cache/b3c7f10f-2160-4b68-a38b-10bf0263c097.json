@@ -1,14 +1,14 @@
 {
     "gates": {
-        "68d7944b-de7b-4e29-a7ec-85044be94ff1": {
+        "c8b7918e-fbf3-4d3d-9629-7888c2542a58": {
             "name": "Main",
             "suffix": "",
             "swap_group": 0,
-            "unit": "3ce158b1-63f0-4bfa-8c58-ae811485125d"
+            "unit": "ebf07627-6cc6-4ab0-9d3a-6b5bb09f1b2e"
         }
     },
     "manufacturer": "",
-    "name": "USB Type-C connector with shield",
+    "name": "USB Type-C for USB2.0",
     "prefix": "J",
     "tags": [
         "connector",
@@ -16,5 +16,5 @@
         "usb"
     ],
     "type": "entity",
-    "uuid": "12c51a77-79ca-4cee-bb04-3e835955f3a0"
+    "uuid": "b3c7f10f-2160-4b68-a38b-10bf0263c097"
 }

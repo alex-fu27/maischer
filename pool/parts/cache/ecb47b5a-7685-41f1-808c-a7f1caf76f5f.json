@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "SJ-43514"
+    ],
+    "datasheet": [
+        false,
+        "https://www.cuidevices.com/track?actionLabel=Datasheet-ClickThrough-ProductPage&label=SJ-4351X.pdf&path=%2fproduct%2finterconnect%2fconnectors%2faudio-connectors%2fjacks%2fsj-43514"
+    ],
+    "description": [
+        false,
+        "4-Channel Audio Jack"
+    ],
+    "entity": "2d913fcd-32e8-4460-9e0d-fe093a8d3172",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CUI"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "cd83520c-87e9-4d6d-927e-9ed937f44e83",
+    "pad_map": {
+        "34a79c47-4e56-42bc-a65c-2e86a2596828": {
+            "gate": "77054372-37ea-463c-8776-7ec6975eadac",
+            "pin": "a1f759ac-9c99-47b7-aab9-28b2efcf860f"
+        },
+        "81b418f8-a9a9-4fdc-a3cb-ce2c6f42132c": {
+            "gate": "77054372-37ea-463c-8776-7ec6975eadac",
+            "pin": "9d7f310e-1b19-4125-92a4-f43af3bb3c08"
+        },
+        "a4f48240-26e3-44a7-b6b7-a2a003cc7ddd": {
+            "gate": "77054372-37ea-463c-8776-7ec6975eadac",
+            "pin": "c4d880c1-4a28-4350-8ea2-964033cbdcb6"
+        },
+        "f557d0bc-39d4-4b02-abbe-c3e9ec0bfe19": {
+            "gate": "77054372-37ea-463c-8776-7ec6975eadac",
+            "pin": "9e389aec-b3f5-46e5-9ee7-95bac0b3c82e"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ecb47b5a-7685-41f1-808c-a7f1caf76f5f",
+    "value": [
+        false,
+        ""
+    ]
+}

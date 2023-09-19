@@ -1,0 +1,121 @@
+{
+    "MPN": [
+        false,
+        "USB4085"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "USB 2.0 Type C Receptacle Dip Type, PCB Top Mount"
+    ],
+    "entity": "b3c7f10f-2160-4b68-a38b-10bf0263c097",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "GCT"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "ebbd39fd-5dcf-4600-9c3b-bd5bf8d5eef5": "USB4085-GF-A"
+    },
+    "package": "ae76eb2b-73f0-4401-a05b-42ef6a8345fb",
+    "pad_map": {
+        "0c23e016-7657-4f99-9005-eebbe821e97e": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "2717d9e3-9712-4526-8024-6efc1e8e0bc0"
+        },
+        "0d37c8cb-8446-4348-a59d-1c6c019b94e4": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "0dc88d1e-0ea0-4f7b-914d-786ba121e723": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "f075d86c-b10a-412a-b49d-714cc3efcce7"
+        },
+        "0feb3d28-dc6a-43b9-929b-83198e9aec45": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "2717d9e3-9712-4526-8024-6efc1e8e0bc0"
+        },
+        "10639ad4-d387-42c1-9f40-fe52a6e9d3b0": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "22028c2d-0251-4f25-b230-2cf6c38ea1f5": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "7a4448f5-517d-4ec6-97f7-aefcdf13e02d"
+        },
+        "5170a320-a0d1-4250-be75-25edb2bc7214": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "d9e315ef-20c5-40e4-98ab-e604063682b5"
+        },
+        "71f2d2f3-6ec7-4294-ab65-fc9093b01054": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "064529f5-6793-469d-8677-c79fcd871f28"
+        },
+        "756e1d2e-8837-4d65-a668-c169bda81ead": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "7a4448f5-517d-4ec6-97f7-aefcdf13e02d"
+        },
+        "797495b1-29f9-45a8-9a02-8776331f2faa": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "63d5899e-90d1-447c-9eaa-1eaf276e807c"
+        },
+        "98a65cd6-9014-4ae0-9732-d98e8f7b0814": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "2717d9e3-9712-4526-8024-6efc1e8e0bc0"
+        },
+        "9d736a58-0e1f-44b0-a861-d43bd4f76309": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "2717d9e3-9712-4526-8024-6efc1e8e0bc0"
+        },
+        "9e3043bc-9a41-4cb5-8c49-e233243bc29c": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "b1c2ee2f-b8be-44c0-9561-79a5d9d6bc0b"
+        },
+        "a01b6e90-58f7-4dcc-84ab-3ab4b2bf63a5": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "064529f5-6793-469d-8677-c79fcd871f28"
+        },
+        "ca5e3a84-373e-4ccf-8a03-0f867545ed43": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "7a4448f5-517d-4ec6-97f7-aefcdf13e02d"
+        },
+        "d1bb36dd-a511-432d-af41-7f1d0538477f": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "7a4448f5-517d-4ec6-97f7-aefcdf13e02d"
+        },
+        "d7d7cc6b-f97a-44e8-9afd-b82a7b132ab0": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "b1c2ee2f-b8be-44c0-9561-79a5d9d6bc0b"
+        },
+        "d996f95c-e9a4-4f23-ba31-14edf380497b": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "8adefde6-f9b7-4fed-91ee-55089829bb93"
+        },
+        "e4d0ea9c-a6b0-4542-b580-dda13643c7a3": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "e5ff984c-c5f1-4b9b-b5b0-1117c8cfce1d": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "th",
+        "type-c",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "4870dcd2-74bd-4c02-848c-41b1609edab9",
+    "value": [
+        false,
+        ""
+    ]
+}

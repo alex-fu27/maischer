@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "4654e410-d94a-45ae-bb3f-928dca5a5e7f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "608e3c55-8f39-4e59-8647-3abdcd377fd9"
+        }
+    },
+    "manufacturer": "",
+    "name": "Barrel Jack with Detection Switch",
+    "prefix": "J",
+    "tags": [
+        "conn",
+        "gen",
+        "jack"
+    ],
+    "type": "entity",
+    "uuid": "72bb22f6-9826-45e9-91d5-16f945b83e1b"
+}

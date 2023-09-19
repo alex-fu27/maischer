@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "77054372-37ea-463c-8776-7ec6975eadac": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8c67f2f3-d3fe-4605-bdeb-329d472bbcae"
+        }
+    },
+    "manufacturer": "",
+    "name": "4-Channel Audio Jack",
+    "prefix": "J",
+    "tags": [
+        "audio",
+        "connector",
+        "generic",
+        "jack"
+    ],
+    "type": "entity",
+    "uuid": "2d913fcd-32e8-4460-9e0d-fe093a8d3172"
+}

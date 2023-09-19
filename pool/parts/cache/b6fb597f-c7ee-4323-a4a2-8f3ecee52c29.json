@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "IP4220CZ6"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Dual USB 2.0 integrated ESD protection"
+    ],
+    "entity": "2ee64f1c-cebf-4b9a-b89b-c6d64c464a03",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "d7c4040d-222e-4fea-a50b-48e0e8a1e962",
+    "pad_map": {
+        "0a69132c-f8ac-40e9-b632-7b37e4ec508b": {
+            "gate": "b38f6448-8995-4502-a64e-0bb00c3122fc",
+            "pin": "5cdf34bb-95c5-474c-97ed-26a0aee95875"
+        },
+        "26385b6d-bf53-4cff-bf4f-48a8f76b4d7f": {
+            "gate": "b38f6448-8995-4502-a64e-0bb00c3122fc",
+            "pin": "db9bd75d-d0f8-48ef-a2d7-51d163ae54b9"
+        },
+        "7632a351-8e32-49e9-8411-dfbeddeefd9b": {
+            "gate": "b38f6448-8995-4502-a64e-0bb00c3122fc",
+            "pin": "223949dd-d494-446e-a0ae-4147f7639236"
+        },
+        "9e9a0c55-c5b4-4287-b19b-30cc1ca0e604": {
+            "gate": "b38f6448-8995-4502-a64e-0bb00c3122fc",
+            "pin": "6a714688-0750-447e-8b35-9c57018f93c6"
+        },
+        "beafe13b-0f67-4fdf-a33a-78e27399d69d": {
+            "gate": "b38f6448-8995-4502-a64e-0bb00c3122fc",
+            "pin": "807b034f-f07a-4694-8114-9efb0b2b743d"
+        },
+        "fa25f95c-cd20-4e19-9b8c-a4d4595bd2a0": {
+            "gate": "b38f6448-8995-4502-a64e-0bb00c3122fc",
+            "pin": "a0209af9-ba5a-4468-ada0-75449f80c04b"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "esd"
+    ],
+    "type": "part",
+    "uuid": "b6fb597f-c7ee-4323-a4a2-8f3ecee52c29",
+    "value": [
+        false,
+        ""
+    ]
+}

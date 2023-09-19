@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "01000020Z"
+    ],
+    "datasheet": [
+        false,
+        "http://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_100_445_030_520_datasheet.pdf"
+    ],
+    "description": [
+        false,
+        "5x20mm 20Amp Double Fuse Clip"
+    ],
+    "entity": "9c8a3c80-4380-4a27-812d-0091453858c8",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Littlefuse Inc."
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "28aefb37-9272-4038-99be-118faf894017",
+    "pad_map": {
+        "4720a0d2-b8cf-426c-9ca8-f2207952de62": {
+            "gate": "2d506fb9-7efb-4f40-bf74-a438d9f1d5fd",
+            "pin": "df0900ed-f3c8-4296-a321-aa5c2257ce74"
+        },
+        "476f6f44-d5f1-4a9b-be08-c12df9db9baa": {
+            "gate": "2d506fb9-7efb-4f40-bf74-a438d9f1d5fd",
+            "pin": "1a542ef8-6259-4b4e-a4a9-3a8af6039ed0"
+        },
+        "5e1d8cee-1a25-4463-9f65-d6b5092b52f6": {
+            "gate": "2d506fb9-7efb-4f40-bf74-a438d9f1d5fd",
+            "pin": "df0900ed-f3c8-4296-a321-aa5c2257ce74"
+        },
+        "80809995-abde-406b-906c-28aced39ef7b": {
+            "gate": "2d506fb9-7efb-4f40-bf74-a438d9f1d5fd",
+            "pin": "1a542ef8-6259-4b4e-a4a9-3a8af6039ed0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "fuse-holder"
+    ],
+    "type": "part",
+    "uuid": "00018759-da47-486c-b892-1c9407c1dc68",
+    "value": [
+        false,
+        ""
+    ]
+}

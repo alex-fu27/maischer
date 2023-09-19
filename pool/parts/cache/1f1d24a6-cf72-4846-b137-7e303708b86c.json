@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "54-0016"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Barrel Jack 5.5/2.1mm with Detection Switch"
+    ],
+    "entity": "72bb22f6-9826-45e9-91d5-16f945b83e1b",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Tensility"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "958cf11f-2cc3-41b2-a468-e7f7351446b2",
+    "pad_map": {
+        "3827e833-506c-48d5-a69f-ffb2a6752d6b": {
+            "gate": "4654e410-d94a-45ae-bb3f-928dca5a5e7f",
+            "pin": "a4f3f16c-8090-43dc-b241-ee01498d88fd"
+        },
+        "7b9c89e6-638c-4725-bd90-090c71d5c426": {
+            "gate": "4654e410-d94a-45ae-bb3f-928dca5a5e7f",
+            "pin": "0cee8c20-0e6f-4c95-b994-62c945ef84a1"
+        },
+        "881d9369-ca8f-4dc5-82ab-f9747a7cc420": {
+            "gate": "4654e410-d94a-45ae-bb3f-928dca5a5e7f",
+            "pin": "1a9964a3-eda0-4caa-9fa5-b2abb31ce851"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "1f1d24a6-cf72-4846-b137-7e303708b86c",
+    "value": [
+        false,
+        ""
+    ]
+}
