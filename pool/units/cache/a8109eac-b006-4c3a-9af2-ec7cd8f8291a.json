@@ -1,0 +1,151 @@
+{
+    "manufacturer": "",
+    "name": "Generic SD Card Connector with Shield, Card Detection, Write Protect",
+    "pins": {
+        "1c3eccc2-e86d-4553-b41d-366b5b0e5716": {
+            "alt_names": {
+                "c73a6405-7bd2-4886-8c20-c7345c6ed94c": {
+                    "direction": "power_input",
+                    "name": "VDD"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "2898e21e-e381-4b85-86a9-b2d58e10adcb": {
+            "alt_names": {
+                "077ea846-6f95-41a2-8c00-b86f8e7fa623": {
+                    "direction": "input",
+                    "name": "SCK"
+                },
+                "c330759f-3896-4db5-860f-159a734028ab": {
+                    "direction": "input",
+                    "name": "CLK"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "48fd9ce2-cc74-47ed-b0ff-ed6b46b007d8": {
+            "alt_names": {
+                "701760af-5ac7-443d-b285-60e3c7378359": {
+                    "direction": "input",
+                    "name": "DAT2"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "63da74ef-18f9-4068-bcb1-7f727d1f656b": {
+            "alt_names": {
+                "6fae44d2-7f33-4fb1-bbb6-06bacd925d06": {
+                    "direction": "input",
+                    "name": "SDI"
+                },
+                "89b0f129-4e32-4fed-873b-a35f0e054b5b": {
+                    "direction": "input",
+                    "name": "CMD"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "95e647a4-7b7a-485f-b490-f5adcd8c0f44": {
+            "alt_names": {
+                "75c68cce-a516-4e9f-a4ff-800752de4bed": {
+                    "direction": "input",
+                    "name": "DAT1"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "9c0e2e10-6ca5-4cbf-837f-7f3798bb8b46": {
+            "alt_names": {
+                "7a0914e2-d66a-4f15-9559-d5705eaecc4e": {
+                    "direction": "input",
+                    "name": "SCS"
+                },
+                "dacf0c68-8555-4df0-a873-2a45d0a39aa0": {
+                    "direction": "bidirectional",
+                    "name": "DAT3"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "bf932b39-5067-47b6-9063-88b688377f1b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Shield",
+            "swap_group": 0
+        },
+        "dfb05d4d-3c56-4247-b657-8c10babca32d": {
+            "alt_names": {
+                "5cbf39e3-7df2-4f0b-a8db-1597b0d7782e": {
+                    "direction": "passive",
+                    "name": "VSS"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "ea0332ef-0b79-45cb-baa5-c500fc381ecb": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "CD",
+            "swap_group": 0
+        },
+        "f16a9b62-e513-4e94-b3d5-4664c031b11e": {
+            "alt_names": {
+                "8e8c8c62-6123-4048-94d6-d3b7586cec95": {
+                    "direction": "passive",
+                    "name": "VSS"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "f5e94c65-b895-4e99-8fd3-adcd08f9e4d5": {
+            "alt_names": {
+                "1a799250-9b88-4556-9e69-a4aeaafdfc5a": {
+                    "direction": "bidirectional",
+                    "name": "DAT0"
+                },
+                "51e7bf92-c21a-4815-a055-02ac0b037a7a": {
+                    "direction": "output",
+                    "name": "SDO"
+                }
+            },
+            "direction": "passive",
+            "names": [],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "ff412548-1995-45b7-b7f5-4d1a65223cdf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "WP",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "a8109eac-b006-4c3a-9af2-ec7cd8f8291a",
+    "version": 1
+}

@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "R-78E5.0-1.0"
+    ],
+    "base": "32a6ccb0-7255-44ba-ad67-e6c276adc0a0",
+    "datasheet": [
+        true,
+        "https://recom-power.com/pdf/Innoline/R-78E-1.0.pdf"
+    ],
+    "description": [
+        false,
+        "DC/DC converter, 5.0V, 1.0 Amp SIP3 Single Output series"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Recom"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "c896c210-3ba8-4c12-b342-588553439e5d",
+    "value": [
+        true,
+        "R-78E-1.0"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "a8109eac-b006-4c3a-9af2-ec7cd8f8291a"
+        }
+    },
+    "manufacturer": "",
+    "name": "Generic SD Card Connector with Shield, Card Detection, Write Protect",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "generic",
+        "sd-card"
+    ],
+    "type": "entity",
+    "uuid": "fd924a16-4cd0-4b94-a8dc-1ffea2218a4d"
+}

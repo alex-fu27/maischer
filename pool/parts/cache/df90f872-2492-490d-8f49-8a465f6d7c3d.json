@@ -1,0 +1,58 @@
+{
+    "MPN": [
+        false,
+        "PEC12R-3217F-S0024"
+    ],
+    "datasheet": [
+        false,
+        "https://www.bourns.com/docs/Product-Datasheets/PEC12R.pdf"
+    ],
+    "description": [
+        false,
+        "12mm Incremental Encoder, Horizontal, integrated momentary switch, 24 Dents"
+    ],
+    "entity": "2ca13134-985e-455a-a35d-55f10907a32d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "3b096437-c702-4781-9c1e-ac7fc79b0786",
+    "pad_map": {
+        "179208b4-6e5f-4252-a5f8-786b58db3d02": {
+            "gate": "cba924c6-b163-413d-be68-ea5b9ab1beca",
+            "pin": "97955848-10f4-4667-b838-46f6bb8fe085"
+        },
+        "485ca710-853e-4bc5-829b-339fb498cc55": {
+            "gate": "de68d55b-7972-496f-93b4-fdb6c1931fef",
+            "pin": "16b7b687-3e60-4a09-a5c7-0d4772e694c9"
+        },
+        "4a8191f2-d112-485f-881a-5158b7d464e6": {
+            "gate": "cba924c6-b163-413d-be68-ea5b9ab1beca",
+            "pin": "831b482b-82af-40ba-8cc0-5e272f25cc2c"
+        },
+        "70aa0eae-6c0d-47b5-b8cd-2d6b61605d70": {
+            "gate": "de68d55b-7972-496f-93b4-fdb6c1931fef",
+            "pin": "9fdbb8ca-38a7-499d-bdb3-4cb17393346f"
+        },
+        "862315c2-4fbd-4fdf-a420-d65c6532fe52": {
+            "gate": "de68d55b-7972-496f-93b4-fdb6c1931fef",
+            "pin": "ba2fcaf5-ab2d-4fc9-8750-fb7273f0a82d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "encoder",
+        "momentary",
+        "rotary",
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "df90f872-2492-490d-8f49-8a465f6d7c3d",
+    "value": [
+        false,
+        ""
+    ]
+}

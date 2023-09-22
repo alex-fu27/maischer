@@ -1,0 +1,69 @@
+{
+    "MPN": [
+        false,
+        "ALZ11F12"
+    ],
+    "datasheet": [
+        false,
+        "https://www3.panasonic.biz/ac/cdn/e/control/relay/power/catalog/mech_eng_lz.pdf"
+    ],
+    "description": [
+        false,
+        "Low proﬁle: 15.7 mm, 1 Form C 16 A, Power relay, 12V 33.3mA"
+    ],
+    "entity": "78c712d9-f460-4453-a804-4c31b7f4fdba",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Panasonic Electric Works"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "6b774883-6c6a-419a-aaee-942dcae8e7cd",
+    "pad_map": {
+        "29363bb6-b63b-407e-b8a7-6098da9957a0": {
+            "gate": "4e740ea1-d73f-4508-b5c0-9747fa98235d",
+            "pin": "e6cf1e3f-8b25-49a6-aff9-2efff4751051"
+        },
+        "627af68a-787f-4965-9d05-8ea84429fcea": {
+            "gate": "4e740ea1-d73f-4508-b5c0-9747fa98235d",
+            "pin": "867b5c01-f941-4cf2-84a1-c19e7e221b92"
+        },
+        "8c8d76b7-fc76-4872-b84b-a710ab22b2e1": {
+            "gate": "4e740ea1-d73f-4508-b5c0-9747fa98235d",
+            "pin": "8dba8db9-8c86-4fa7-b79d-89404a3d9662"
+        },
+        "9ee6937d-06d7-4dd1-8b13-57ab5014cb88": {
+            "gate": "4e740ea1-d73f-4508-b5c0-9747fa98235d",
+            "pin": "e6cf1e3f-8b25-49a6-aff9-2efff4751051"
+        },
+        "bafc9adb-ff0e-4a66-9032-516d19cabb51": {
+            "gate": "4e740ea1-d73f-4508-b5c0-9747fa98235d",
+            "pin": "89d629ab-c2a7-4d80-95ca-77e426228c67"
+        },
+        "cbc7c7bb-8452-4d4f-aee4-f8a425bc039a": {
+            "gate": "4e740ea1-d73f-4508-b5c0-9747fa98235d",
+            "pin": "c3f4c29b-5443-45cd-8ca8-41545f6eef4b"
+        },
+        "e80fc0f4-bccd-4a3d-9101-e0520bcebe36": {
+            "gate": "4e740ea1-d73f-4508-b5c0-9747fa98235d",
+            "pin": "867b5c01-f941-4cf2-84a1-c19e7e221b92"
+        },
+        "fed40171-eeaf-4aee-a81c-195acdfbeb15": {
+            "gate": "4e740ea1-d73f-4508-b5c0-9747fa98235d",
+            "pin": "8dba8db9-8c86-4fa7-b79d-89404a3d9662"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "12v",
+        "relay",
+        "spdt"
+    ],
+    "type": "part",
+    "uuid": "60e46e0f-882b-4387-9512-0bcde0ed9854",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Buzzer",
+    "pins": {
+        "8418379f-0d5e-4fbc-87e8-9a3d3f1ff642": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "-",
+            "swap_group": 0
+        },
+        "e37d2751-b1d4-4ae6-924c-aaae639a4de0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "+",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "736fdaaf-26df-4d34-8807-b1ed835e5ad5"
+}

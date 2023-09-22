@@ -1,0 +1,26 @@
+{
+    "gates": {
+        "631b13ef-ca0f-4a68-822f-129988118b4d": {
+            "name": "Main",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "3bf31126-f0f7-4b0a-a321-f2db40b6450e"
+        },
+        "d3f657bd-a357-45c2-a435-9f70ad4478e1": {
+            "name": "Power",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "c5b399c9-5626-4cc6-b33d-5c0f3da5df5c"
+        }
+    },
+    "manufacturer": "",
+    "name": "Single Differential Amplifier with Ref and Sense",
+    "prefix": "U",
+    "tags": [
+        "differential",
+        "generic",
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "db3b380e-631f-4543-8310-3c6479bca18c"
+}

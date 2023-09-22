@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "CMI-1275C-050"
+    ],
+    "datasheet": [
+        false,
+        "https://www.cuidevices.com/product/resource/cmi-1275c-050.pdf"
+    ],
+    "description": [
+        false,
+        "Magnetic Buzzer Indicator, 5V"
+    ],
+    "entity": "296acf00-cc52-4436-a767-f1b0e4409263",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CUI"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "7b35e5bf-8d72-45a3-af3b-42d68cc6e4e4",
+    "pad_map": {
+        "4a6f5019-1697-45da-99d3-9a208ea33d3d": {
+            "gate": "4446b746-cff7-472d-85f1-61b940b31485",
+            "pin": "e37d2751-b1d4-4ae6-924c-aaae639a4de0"
+        },
+        "8e433a7a-8049-4adc-b07f-32e8e2aac767": {
+            "gate": "4446b746-cff7-472d-85f1-61b940b31485",
+            "pin": "8418379f-0d5e-4fbc-87e8-9a3d3f1ff642"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "buzzer"
+    ],
+    "type": "part",
+    "uuid": "eea20561-50d8-490d-bfbc-1b69b7b1ff66",
+    "value": [
+        false,
+        ""
+    ]
+}

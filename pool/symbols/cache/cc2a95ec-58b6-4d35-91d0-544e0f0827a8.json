@@ -1,0 +1,124 @@
+{
+    "arcs": {
+        "72e57a7b-f902-42cc-8574-71acefdc82e6": {
+            "center": "698fd499-0765-439d-bca7-da3d8dd67b98",
+            "from": "c1435cb8-de28-4019-9599-48a133f76470",
+            "layer": 0,
+            "to": "f0948a75-3f77-411d-a058-034928a91d98",
+            "width": 0
+        }
+    },
+    "can_expand": false,
+    "junctions": {
+        "087d7d83-1698-4ed5-afe0-24c743096b5f": {
+            "position": [
+                2125000,
+                -2500000
+            ]
+        },
+        "698fd499-0765-439d-bca7-da3d8dd67b98": {
+            "position": [
+                2500000,
+                0
+            ]
+        },
+        "c1435cb8-de28-4019-9599-48a133f76470": {
+            "position": [
+                2500000,
+                2795084
+            ]
+        },
+        "f0948a75-3f77-411d-a058-034928a91d98": {
+            "position": [
+                2500000,
+                -2795084
+            ]
+        }
+    },
+    "lines": {
+        "c072d098-c7b4-42d3-8693-c96e54423a88": {
+            "from": "c1435cb8-de28-4019-9599-48a133f76470",
+            "layer": 0,
+            "to": "f0948a75-3f77-411d-a058-034928a91d98",
+            "width": 0
+        }
+    },
+    "name": "Buzzer",
+    "pins": {
+        "8418379f-0d5e-4fbc-87e8-9a3d3f1ff642": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -2500000,
+                -1250000
+            ]
+        },
+        "e37d2751-b1d4-4ae6-924c-aaae639a4de0": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -2500000,
+                1250000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "4270b0cd-f673-410e-8ce9-b59403c514b4": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    3750000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "c5c8f1ef-36c6-4250-ae88-1c920d4d9715": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    -3750000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "736fdaaf-26df-4d34-8807-b1ed835e5ad5",
+    "uuid": "cc2a95ec-58b6-4d35-91d0-544e0f0827a8"
+}

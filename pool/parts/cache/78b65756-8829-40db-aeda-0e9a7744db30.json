@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "1776493-3"
+    ],
+    "datasheet": [
+        false,
+        "https://www.te.com/usa-en/product-1776493-2.datasheet.pdf"
+    ],
+    "description": [
+        false,
+        "PCB Terminal Blocks, Header, Wire-to-Board, 3 Position, .2 in [5.08 mm] Centerline, 1 Row, 90° Wire Entry Angle, 22 – 14 AWG Wire Size"
+    ],
+    "entity": "dac08463-17e8-4eb3-b5b4-4d7be5775379",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "79f2930c-da41-49a4-ba8f-8ed43580ec64",
+    "pad_map": {
+        "1559da9a-c8f5-45ec-b3fc-5e1607aafad1": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "1803365d-f745-4921-a54f-c5df6afa6561"
+        },
+        "82ca8ac7-4328-4636-9458-bdf87efe7331": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "b22250f7-9956-4ac8-ada1-725b7ba800c8"
+        },
+        "8abea567-5e3e-43e3-a8a3-3364e0bddf01": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "4c0e5d34-b007-432d-880b-3a3b8e963a14"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "78b65756-8829-40db-aeda-0e9a7744db30",
+    "value": [
+        false,
+        ""
+    ]
+}

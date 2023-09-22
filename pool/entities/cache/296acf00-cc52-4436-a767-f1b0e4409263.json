@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "4446b746-cff7-472d-85f1-61b940b31485": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "736fdaaf-26df-4d34-8807-b1ed835e5ad5"
+        }
+    },
+    "manufacturer": "",
+    "name": "Buzzer",
+    "prefix": "LS",
+    "tags": [
+        "buzzer",
+        "generic"
+    ],
+    "type": "entity",
+    "uuid": "296acf00-cc52-4436-a767-f1b0e4409263"
+}

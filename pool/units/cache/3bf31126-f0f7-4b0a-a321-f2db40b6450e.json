@@ -1,0 +1,38 @@
+{
+    "manufacturer": "",
+    "name": "Differential Amplifier with Ref and Sense",
+    "pins": {
+        "3137ca12-b3be-4f6f-952a-9ee86009c195": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REF",
+            "swap_group": 0
+        },
+        "5d3b704a-a9c6-42b2-868c-5f0f92a8b80e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "+",
+            "swap_group": 0
+        },
+        "6393dd78-5d4d-488e-b1c4-b0683dd7677e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SENSE",
+            "swap_group": 0
+        },
+        "c025c8b9-fea4-4e5f-bb0d-85a06413d8d5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "-",
+            "swap_group": 0
+        },
+        "de5df4cd-394a-403d-8f08-65d6290676ac": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3bf31126-f0f7-4b0a-a321-f2db40b6450e"
+}

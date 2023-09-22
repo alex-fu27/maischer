@@ -1,0 +1,88 @@
+{
+    "MPN": [
+        false,
+        "10067847-001RLF"
+    ],
+    "datasheet": [
+        false,
+        "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10067847.pdf"
+    ],
+    "description": [
+        false,
+        "SD Card Connector with Card Detection, Write Protect, push-push"
+    ],
+    "entity": "fd924a16-4cd0-4b94-a8dc-1ffea2218a4d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Amphenol FCI"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "85e1b6cb-83af-4e48-be27-7e8c56f5241b",
+    "pad_map": {
+        "02e0218c-e846-48e0-9836-70d760616dcd": {
+            "gate": "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c",
+            "pin": "ff412548-1995-45b7-b7f5-4d1a65223cdf"
+        },
+        "10831bb9-3269-4378-a3ee-2c89f0e5154b": {
+            "gate": "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c",
+            "pin": "9c0e2e10-6ca5-4cbf-837f-7f3798bb8b46"
+        },
+        "127a99c9-1051-45b2-b058-71cb95f069d2": {
+            "gate": "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c",
+            "pin": "95e647a4-7b7a-485f-b490-f5adcd8c0f44"
+        },
+        "1db5b61e-f6a8-4cb2-a5e6-6051fa9737ba": {
+            "gate": "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c",
+            "pin": "f5e94c65-b895-4e99-8fd3-adcd08f9e4d5"
+        },
+        "359330c5-d188-4816-9892-e155a5351beb": {
+            "gate": "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c",
+            "pin": "bf932b39-5067-47b6-9063-88b688377f1b"
+        },
+        "39a4a6ec-c936-4ce8-a541-1847280ee9c7": {
+            "gate": "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c",
+            "pin": "2898e21e-e381-4b85-86a9-b2d58e10adcb"
+        },
+        "7b0d1f84-59ef-4c17-a5f0-ee55c9e00e06": {
+            "gate": "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c",
+            "pin": "dfb05d4d-3c56-4247-b657-8c10babca32d"
+        },
+        "a153e4fb-1fad-4018-9f2a-af00981ce9bb": {
+            "gate": "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c",
+            "pin": "ea0332ef-0b79-45cb-baa5-c500fc381ecb"
+        },
+        "aa5fbbfd-c419-4f4f-858a-f378bce100a9": {
+            "gate": "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c",
+            "pin": "f16a9b62-e513-4e94-b3d5-4664c031b11e"
+        },
+        "bf0e1bd5-fd29-4dfa-a7d4-9136c912af1b": {
+            "gate": "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c",
+            "pin": "63da74ef-18f9-4068-bcb1-7f727d1f656b"
+        },
+        "c3636521-2af4-4a64-be34-a68148a94ef5": {
+            "gate": "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c",
+            "pin": "bf932b39-5067-47b6-9063-88b688377f1b"
+        },
+        "d519e862-f80c-490c-bf04-583ced2cf61d": {
+            "gate": "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c",
+            "pin": "1c3eccc2-e86d-4553-b41d-366b5b0e5716"
+        },
+        "e60939b1-44de-4617-ab1b-cb86e633601b": {
+            "gate": "1ee1b2a3-6fb5-47fc-ab04-6062a4c0a85c",
+            "pin": "48fd9ce2-cc74-47ed-b0ff-ed6b46b007d8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "sd-card"
+    ],
+    "type": "part",
+    "uuid": "4f8b7643-c922-44d0-ac36-5440f8a23135",
+    "value": [
+        false,
+        ""
+    ]
+}

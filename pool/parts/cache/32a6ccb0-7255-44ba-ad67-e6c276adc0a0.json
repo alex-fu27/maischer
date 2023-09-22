@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "R-78E-1.0"
+    ],
+    "datasheet": [
+        false,
+        "https://recom-power.com/pdf/Innoline/R-78E-1.0.pdf"
+    ],
+    "description": [
+        false,
+        "DC/DC converter, 1.0 Amp SIP3 Single Output series"
+    ],
+    "entity": "1d0055e8-b654-4bb9-b3e2-5ad87079ecca",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Recom"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "f6699974-b307-4b2c-b1de-dc1d74deb008",
+    "pad_map": {
+        "0d050f5e-d22b-45f9-8638-055344e5ed6e": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "4518f166-5e20-4a75-bebe-262024275364": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "cfa276d8-311f-49b6-a12f-0aceb3c71839": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "32a6ccb0-7255-44ba-ad67-e6c276adc0a0",
+    "value": [
+        false,
+        ""
+    ]
+}

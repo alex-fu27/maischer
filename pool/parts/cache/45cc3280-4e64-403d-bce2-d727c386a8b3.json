@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "AD8276"
+    ],
+    "datasheet": [
+        false,
+        "https://www.analog.com/media/en/technical-documentation/data-sheets/AD8276_8277.pdf"
+    ],
+    "description": [
+        false,
+        "Single Differential Amplifier with Ref and Sense"
+    ],
+    "entity": "db3b380e-631f-4543-8310-3c6479bca18c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "bc78d24c-ca26-458f-826b-a92ca324c6ad",
+    "pad_map": {
+        "122635cd-5ea3-42d5-8c67-1371fd145f90": {
+            "gate": "631b13ef-ca0f-4a68-822f-129988118b4d",
+            "pin": "c025c8b9-fea4-4e5f-bb0d-85a06413d8d5"
+        },
+        "26b473ad-8fbe-4640-bf0b-169061ededd2": {
+            "gate": "631b13ef-ca0f-4a68-822f-129988118b4d",
+            "pin": "3137ca12-b3be-4f6f-952a-9ee86009c195"
+        },
+        "2b67d97f-f271-448a-97fe-33d9f13b3dc6": {
+            "gate": "d3f657bd-a357-45c2-a435-9f70ad4478e1",
+            "pin": "aacf2d55-cf04-4c20-89c5-61704ef771f7"
+        },
+        "3b17f6b4-4794-4a2d-a384-7fbbc416f4fb": {
+            "gate": "d3f657bd-a357-45c2-a435-9f70ad4478e1",
+            "pin": "a8ba387d-1c68-4215-843f-9d669e48646d"
+        },
+        "4630934f-b688-468f-8107-7678ac07c6da": {
+            "gate": "631b13ef-ca0f-4a68-822f-129988118b4d",
+            "pin": "5d3b704a-a9c6-42b2-868c-5f0f92a8b80e"
+        },
+        "5a7902da-b874-47b9-a949-4a96710298a9": {
+            "gate": "631b13ef-ca0f-4a68-822f-129988118b4d",
+            "pin": "de5df4cd-394a-403d-8f08-65d6290676ac"
+        },
+        "889890d1-7957-4255-9ce1-576e7d23b7ae": {
+            "gate": "631b13ef-ca0f-4a68-822f-129988118b4d",
+            "pin": "6393dd78-5d4d-488e-b1c4-b0683dd7677e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "differential",
+        "opamp",
+        "rail-to-rail"
+    ],
+    "type": "part",
+    "uuid": "45cc3280-4e64-403d-bce2-d727c386a8b3",
+    "value": [
+        false,
+        ""
+    ]
+}

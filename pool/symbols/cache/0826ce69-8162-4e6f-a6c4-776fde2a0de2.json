@@ -1,0 +1,173 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "1d8e379b-4bfa-46af-95a1-f3b425687fda": {
+            "position": [
+                -3750000,
+                6250000
+            ]
+        },
+        "9f03a5f6-a8e8-4857-a7b9-089110479540": {
+            "position": [
+                -3750000,
+                -6250000
+            ]
+        },
+        "ebf051cc-7d5c-4afa-8826-f35663817339": {
+            "position": [
+                8750000,
+                0
+            ]
+        }
+    },
+    "lines": {
+        "121d2d6e-1144-4bd8-a473-a021eeba8e73": {
+            "from": "ebf051cc-7d5c-4afa-8826-f35663817339",
+            "layer": 0,
+            "to": "9f03a5f6-a8e8-4857-a7b9-089110479540",
+            "width": 0
+        },
+        "b988a5d3-5164-4117-b5e8-49a1860de361": {
+            "from": "9f03a5f6-a8e8-4857-a7b9-089110479540",
+            "layer": 0,
+            "to": "1d8e379b-4bfa-46af-95a1-f3b425687fda",
+            "width": 0
+        },
+        "ff401e01-6179-48c4-b555-7afdf307b9e5": {
+            "from": "1d8e379b-4bfa-46af-95a1-f3b425687fda",
+            "layer": 0,
+            "to": "ebf051cc-7d5c-4afa-8826-f35663817339",
+            "width": 0
+        }
+    },
+    "name": "Differential Amplifier with Ref and Sense",
+    "pins": {
+        "3137ca12-b3be-4f6f-952a-9ee86009c195": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "horizontal",
+            "name_visible": true,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                3750000,
+                -5000000
+            ]
+        },
+        "5d3b704a-a9c6-42b2-868c-5f0f92a8b80e": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -6250000,
+                2500000
+            ]
+        },
+        "6393dd78-5d4d-488e-b1c4-b0683dd7677e": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "horizontal",
+            "name_visible": true,
+            "orientation": "up",
+            "pad_visible": true,
+            "position": [
+                3750000,
+                5000000
+            ]
+        },
+        "c025c8b9-fea4-4e5f-bb0d-85a06413d8d5": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -6250000,
+                -2500000
+            ]
+        },
+        "de5df4cd-394a-403d-8f08-65d6290676ac": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "horizontal",
+            "name_visible": false,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                11250000,
+                0
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {
+        "b16cfc0c-501d-43ff-bc65-26e73614bc80": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    5000000,
+                    6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "c1670f91-455e-4e7a-b43e-ed33ee800471": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    5000000,
+                    -6250000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "3bf31126-f0f7-4b0a-a321-f2db40b6450e",
+    "uuid": "0826ce69-8162-4e6f-a6c4-776fde2a0de2"
+}

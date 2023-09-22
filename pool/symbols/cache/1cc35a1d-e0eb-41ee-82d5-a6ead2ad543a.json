@@ -1,0 +1,269 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {
+        "749a4e39-6997-40af-abe9-7fbc4c26c27c": {
+            "position": [
+                -13750000,
+                -10000000
+            ]
+        },
+        "7c69375a-3fae-4f44-bd07-02cfe77068c7": {
+            "position": [
+                13750000,
+                -10000000
+            ]
+        },
+        "9e73e547-f63f-402c-bc0c-f6a7a62595c9": {
+            "position": [
+                -13750000,
+                10000000
+            ]
+        },
+        "cc2eb0e1-6c76-40da-a32a-ea5227369e56": {
+            "position": [
+                13750000,
+                10000000
+            ]
+        }
+    },
+    "lines": {
+        "01b9fbc2-3276-437e-aab1-119ba8d73cb0": {
+            "from": "9e73e547-f63f-402c-bc0c-f6a7a62595c9",
+            "layer": 0,
+            "to": "cc2eb0e1-6c76-40da-a32a-ea5227369e56",
+            "width": 0
+        },
+        "c426b610-e7b1-4205-b26b-386e14371ba5": {
+            "from": "749a4e39-6997-40af-abe9-7fbc4c26c27c",
+            "layer": 0,
+            "to": "9e73e547-f63f-402c-bc0c-f6a7a62595c9",
+            "width": 0
+        },
+        "d461879f-131b-4ff7-bffa-e9d3a93fdc21": {
+            "from": "cc2eb0e1-6c76-40da-a32a-ea5227369e56",
+            "layer": 0,
+            "to": "7c69375a-3fae-4f44-bd07-02cfe77068c7",
+            "width": 0
+        },
+        "d8472a68-8391-41ba-9b56-d0c05bde00c0": {
+            "from": "7c69375a-3fae-4f44-bd07-02cfe77068c7",
+            "layer": 0,
+            "to": "749a4e39-6997-40af-abe9-7fbc4c26c27c",
+            "width": 0
+        }
+    },
+    "name": "Generic SD Card Connector with Shield, Card Detection, Write Protect",
+    "pins": {
+        "1c3eccc2-e86d-4553-b41d-366b5b0e5716": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "horizontal",
+            "name_visible": true,
+            "orientation": "up",
+            "pad_visible": true,
+            "position": [
+                0,
+                12500000
+            ]
+        },
+        "2898e21e-e381-4b85-86a9-b2d58e10adcb": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -16250000,
+                -5000000
+            ]
+        },
+        "48fd9ce2-cc74-47ed-b0ff-ed6b46b007d8": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -16250000,
+                2500000
+            ]
+        },
+        "63da74ef-18f9-4068-bcb1-7f727d1f656b": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -16250000,
+                -2500000
+            ]
+        },
+        "95e647a4-7b7a-485f-b490-f5adcd8c0f44": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -16250000,
+                5000000
+            ]
+        },
+        "9c0e2e10-6ca5-4cbf-837f-7f3798bb8b46": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "left",
+            "pad_visible": true,
+            "position": [
+                -16250000,
+                0
+            ]
+        },
+        "bf932b39-5067-47b6-9063-88b688377f1b": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                16250000,
+                -5000000
+            ]
+        },
+        "dfb05d4d-3c56-4247-b657-8c10babca32d": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "horizontal",
+            "name_visible": true,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                -5000000,
+                -12500000
+            ]
+        },
+        "ea0332ef-0b79-45cb-baa5-c500fc381ecb": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                16250000,
+                -1250000
+            ]
+        },
+        "f16a9b62-e513-4e94-b3d5-4664c031b11e": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "horizontal",
+            "name_visible": true,
+            "orientation": "down",
+            "pad_visible": true,
+            "position": [
+                5000000,
+                -12500000
+            ]
+        },
+        "f5e94c65-b895-4e99-8fd3-adcd08f9e4d5": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                16250000,
+                5000000
+            ]
+        },
+        "ff412548-1995-45b7-b7f5-4d1a65223cdf": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": true,
+            "orientation": "right",
+            "pad_visible": true,
+            "position": [
+                16250000,
+                1250000
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {},
+    "type": "symbol",
+    "unit": "a8109eac-b006-4c3a-9af2-ec7cd8f8291a",
+    "uuid": "1cc35a1d-e0eb-41ee-82d5-a6ead2ad543a"
+}
