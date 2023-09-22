@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "Generic 0805 Fuse"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Generic 0805 Fuse"
+    ],
+    "entity": "9c8a3c80-4380-4a27-812d-0091453858c8",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "package": "a894abc1-5b1c-4a52-90fc-5eb2e462b101",
+    "pad_map": {
+        "57416c85-ca47-45fe-a850-612e3405e61f": {
+            "gate": "2d506fb9-7efb-4f40-bf74-a438d9f1d5fd",
+            "pin": "df0900ed-f3c8-4296-a321-aa5c2257ce74"
+        },
+        "b43013b4-017c-4242-8852-0ec05a2374d1": {
+            "gate": "2d506fb9-7efb-4f40-bf74-a438d9f1d5fd",
+            "pin": "1a542ef8-6259-4b4e-a4a9-3a8af6039ed0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "fuse",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "f3802685-1f97-443c-841f-d7a6ce1356ef",
+    "value": [
+        false,
+        ""
+    ]
+}

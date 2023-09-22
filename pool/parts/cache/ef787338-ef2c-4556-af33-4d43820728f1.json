@@ -1,0 +1,32 @@
+{
+    "MPN": [
+        false,
+        "Schuko Dose Outline"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "e738fcf2-bf36-46b2-8288-82f43aabca8a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "05206f7f-f04d-4763-a1c0-81cf469a5830",
+    "pad_map": {},
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ef787338-ef2c-4556-af33-4d43820728f1",
+    "value": [
+        false,
+        ""
+    ]
+}
