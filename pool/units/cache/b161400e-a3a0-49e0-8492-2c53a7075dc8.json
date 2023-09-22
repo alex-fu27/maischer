@@ -1,0 +1,99 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "TUSB320",
+    "pins": {
+        "0ec0ddbe-c1e7-4ce7-a17e-a71a3e28432f": {
+            "alt_names": {
+                "593eb37c-ec2f-41aa-84e3-9c4b964607dc": {
+                    "direction": "output",
+                    "name": "OUT2"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "32e68a1a-6187-4821-a45e-aa6fc607f625": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PORT",
+            "swap_group": 0
+        },
+        "37954057-b9cc-4d66-b429-5ec6b72f4b9a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "ID",
+            "swap_group": 0
+        },
+        "4161a479-1e6b-404a-b72c-74493f839b08": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        },
+        "425964b3-2f03-4e61-9d7c-6e7a7f942e53": {
+            "alt_names": {
+                "593eb37c-ec2f-41aa-84e3-9c4b964607dc": {
+                    "direction": "output",
+                    "name": "OUT1"
+                }
+            },
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "551aa6ff-2f68-428d-b366-9e0c432f8fe9": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "818a5d6f-a8e8-4917-a5c4-a930ee9ac00b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        },
+        "8fa9eaf4-7b08-4c6c-8aad-fc9623d361d5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADDR",
+            "swap_group": 0
+        },
+        "ba502856-c424-4dfd-b347-10a7cc3b832e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "bdae8854-b7b4-4a82-8d3f-bd730e331481": {
+            "alt_names": {
+                "d96162ee-d604-4338-b37d-fbb716e9368c": {
+                    "direction": "output",
+                    "name": "OUT3"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "INT_N",
+            "swap_group": 0
+        },
+        "c5e0e901-1593-4335-b143-bf4285b2cb0d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~EN",
+            "swap_group": 0
+        },
+        "dbb1188b-074b-4761-9122-fc338d769318": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VBUS_DET",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b161400e-a3a0-49e0-8492-2c53a7075dc8",
+    "version": 1
+}

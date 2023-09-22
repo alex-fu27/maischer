@@ -1,0 +1,26 @@
+{
+    "gates": {
+        "cdbb3137-61ce-4cb9-b7cc-63c71e8809f5": {
+            "name": "Backlight",
+            "suffix": "L",
+            "swap_group": 0,
+            "unit": "40746e42-5a30-481e-b342-ae7547413c03"
+        },
+        "f2d12fab-5fb8-43a8-9392-0ec738890911": {
+            "name": "Display",
+            "suffix": "D",
+            "swap_group": 0,
+            "unit": "ba76c275-e730-44ca-ab5d-ad03f4daf3f6"
+        }
+    },
+    "manufacturer": "Newhaven Display",
+    "name": "NHD-C12832A1Z",
+    "prefix": "DS",
+    "tags": [
+        "display",
+        "lcd",
+        "led"
+    ],
+    "type": "entity",
+    "uuid": "b6f989e8-1d75-4098-9b15-aff79168cbda"
+}

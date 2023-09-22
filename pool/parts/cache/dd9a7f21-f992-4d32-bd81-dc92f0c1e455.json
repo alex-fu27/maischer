@@ -1,0 +1,85 @@
+{
+    "MPN": [
+        false,
+        "TUSB320I"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/tusb320.pdf"
+    ],
+    "description": [
+        false,
+        "USB Type-C™ Configuration Channel Logic and Port Control"
+    ],
+    "entity": "634c465d-bac7-4e92-8a48-f0805f5f0bd4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "8fcf4bb4-42d1-4787-94f9-01525495983a",
+    "pad_map": {
+        "063eee23-9925-4f2f-bdeb-4fe4f9d8eafc": {
+            "gate": "14035363-712b-4cb7-9c9b-8d653c5f4804",
+            "pin": "32e68a1a-6187-4821-a45e-aa6fc607f625"
+        },
+        "0ad3dccf-a23f-475a-9ba7-e93ffb240576": {
+            "gate": "14035363-712b-4cb7-9c9b-8d653c5f4804",
+            "pin": "551aa6ff-2f68-428d-b366-9e0c432f8fe9"
+        },
+        "33b64910-1fee-4e55-ad3b-d8726077afd0": {
+            "gate": "14035363-712b-4cb7-9c9b-8d653c5f4804",
+            "pin": "dbb1188b-074b-4761-9122-fc338d769318"
+        },
+        "407a7bc1-350d-44aa-ba04-c489ab498def": {
+            "gate": "14035363-712b-4cb7-9c9b-8d653c5f4804",
+            "pin": "425964b3-2f03-4e61-9d7c-6e7a7f942e53"
+        },
+        "577a78f8-168d-405e-80c4-d72cabc42593": {
+            "gate": "14035363-712b-4cb7-9c9b-8d653c5f4804",
+            "pin": "0ec0ddbe-c1e7-4ce7-a17e-a71a3e28432f"
+        },
+        "57dd9d37-60f8-41d3-a82c-2af0882296fb": {
+            "gate": "14035363-712b-4cb7-9c9b-8d653c5f4804",
+            "pin": "ba502856-c424-4dfd-b347-10a7cc3b832e"
+        },
+        "5857836d-4b5b-4b3b-88d6-53af9fe82d5b": {
+            "gate": "14035363-712b-4cb7-9c9b-8d653c5f4804",
+            "pin": "818a5d6f-a8e8-4917-a5c4-a930ee9ac00b"
+        },
+        "61afedb4-b2ef-4eb6-bf7d-5ef00af4d5e3": {
+            "gate": "14035363-712b-4cb7-9c9b-8d653c5f4804",
+            "pin": "37954057-b9cc-4d66-b429-5ec6b72f4b9a"
+        },
+        "67c0a8f7-672d-44dc-afc2-adfee973cbd9": {
+            "gate": "14035363-712b-4cb7-9c9b-8d653c5f4804",
+            "pin": "bdae8854-b7b4-4a82-8d3f-bd730e331481"
+        },
+        "89d2d5a7-bade-4e65-b30d-9f5a27c92489": {
+            "gate": "14035363-712b-4cb7-9c9b-8d653c5f4804",
+            "pin": "c5e0e901-1593-4335-b143-bf4285b2cb0d"
+        },
+        "a50cdc0b-2590-4078-8d5d-fd94321bc294": {
+            "gate": "14035363-712b-4cb7-9c9b-8d653c5f4804",
+            "pin": "8fa9eaf4-7b08-4c6c-8aad-fc9623d361d5"
+        },
+        "efd4666f-f46b-44d6-a49c-b2e220a8b0eb": {
+            "gate": "14035363-712b-4cb7-9c9b-8d653c5f4804",
+            "pin": "4161a479-1e6b-404a-b72c-74493f839b08"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "i2c",
+        "ic",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "dd9a7f21-f992-4d32-bd81-dc92f0c1e455",
+    "value": [
+        false,
+        ""
+    ]
+}

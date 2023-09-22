@@ -1,0 +1,110 @@
+{
+    "manufacturer": "Newhaven Display",
+    "name": "NHD-C12832A1Z Display",
+    "pins": {
+        "00262773-4523-48d3-842b-df22e9e2b5ba": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SI",
+            "swap_group": 0
+        },
+        "0b3b4e61-0ccb-4b1c-b2c4-679878ed13d9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "1ada6be9-7b5a-4a04-bd25-7f2d4870358b": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "V3",
+            "swap_group": 0
+        },
+        "2585d793-be83-41ec-9fca-937e5dfc030d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "V4",
+            "swap_group": 0
+        },
+        "333b15af-871a-4649-ab17-2585651e3505": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C2-",
+            "swap_group": 0
+        },
+        "41f9f48d-d66f-46c4-b320-3d71f06dbafb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A0",
+            "swap_group": 0
+        },
+        "5925fbd3-9766-4b75-9d80-f38415450ab6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C1-",
+            "swap_group": 0
+        },
+        "61f5e071-e4e9-4ab0-9d92-c4b3646a6d21": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "V0",
+            "swap_group": 0
+        },
+        "6bed01e0-2e3d-48aa-a8d6-17e473dacae7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "V2",
+            "swap_group": 0
+        },
+        "6ceee6a8-4128-4b9d-a1ac-656025906754": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "806150e7-969c-406e-aa31-c41d0cd776d3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C2+",
+            "swap_group": 0
+        },
+        "938f0876-b265-4727-a1ac-639458898966": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VOUT",
+            "swap_group": 0
+        },
+        "9837d586-3ee7-4347-b826-706141a6facd": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "V1",
+            "swap_group": 0
+        },
+        "a167dcbe-fe11-49ec-83e9-1910e04b0fbe": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CS1B",
+            "swap_group": 0
+        },
+        "a6dbdb80-c0a9-410d-a693-069ed1c3183c": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C1+",
+            "swap_group": 0
+        },
+        "b2a7cab6-33de-4de5-99c4-a2705c77ff23": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RES",
+            "swap_group": 0
+        },
+        "f32d4cda-1d17-490d-8f2b-6aeb0195592b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ba76c275-e730-44ca-ab5d-ad03f4daf3f6"
+}

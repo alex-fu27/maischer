@@ -1,0 +1,113 @@
+{
+    "MPN": [
+        false,
+        "NHD-C12832A1Z-FSW-FBW-3V3 via cable"
+    ],
+    "datasheet": [
+        false,
+        "https://newhavendisplay.com/content/specs/NHD-C12832A1Z-FSW-FBW-3V3.pdf"
+    ],
+    "description": [
+        false,
+        "Display"
+    ],
+    "entity": "b6f989e8-1d75-4098-9b15-aff79168cbda",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Newhaven Display"
+    ],
+    "model": "84ec8229-d872-42f8-bfcc-96938ff02bd1",
+    "package": "e943eec7-5d64-4a9e-8e0b-20ebe457c713",
+    "pad_map": {
+        "37ad2e38-76ac-4a0b-adf3-2500e30336a0": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "1ada6be9-7b5a-4a04-bd25-7f2d4870358b"
+        },
+        "3cde8013-3885-4310-90b0-85740b7a45b4": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "806150e7-969c-406e-aa31-c41d0cd776d3"
+        },
+        "40856c2b-af0e-41ed-8964-09b369529271": {
+            "gate": "cdbb3137-61ce-4cb9-b7cc-63c71e8809f5",
+            "pin": "f3a0ce45-6d5e-453b-9649-33baf57cc7b7"
+        },
+        "50f60ff3-0e93-4dc7-8c38-68e52687007d": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "938f0876-b265-4727-a1ac-639458898966"
+        },
+        "5f03eef9-7af5-402d-a522-212bc6dc4840": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "6ceee6a8-4128-4b9d-a1ac-656025906754"
+        },
+        "6e68c793-6509-4147-8c3f-fa975298da9d": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "a167dcbe-fe11-49ec-83e9-1910e04b0fbe"
+        },
+        "7bc2147a-0234-41f6-ab65-444e57a43ce5": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "61f5e071-e4e9-4ab0-9d92-c4b3646a6d21"
+        },
+        "7de8ad61-d839-4bad-85e8-5b3d093d4d6c": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "9837d586-3ee7-4347-b826-706141a6facd"
+        },
+        "a43c1c45-4e2c-4164-990b-5719d05d21b4": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "2585d793-be83-41ec-9fca-937e5dfc030d"
+        },
+        "b144b636-ec05-47a5-91c2-da2ea855ca21": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "f32d4cda-1d17-490d-8f2b-6aeb0195592b"
+        },
+        "b913e143-f4b1-4aa9-899e-b67ed4f6794f": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "5925fbd3-9766-4b75-9d80-f38415450ab6"
+        },
+        "bfd2b103-e7d7-4341-a148-42eb023c4a6d": {
+            "gate": "cdbb3137-61ce-4cb9-b7cc-63c71e8809f5",
+            "pin": "3c305ca9-14d3-40b4-a365-8938959c043e"
+        },
+        "c8b47a09-16bf-47be-838e-2f014990d806": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "00262773-4523-48d3-842b-df22e9e2b5ba"
+        },
+        "ccf92a7d-63f1-40bd-918f-da246deb854a": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "a6dbdb80-c0a9-410d-a693-069ed1c3183c"
+        },
+        "cda0a45e-3673-43ad-81ff-c6556e1b630a": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "0b3b4e61-0ccb-4b1c-b2c4-679878ed13d9"
+        },
+        "e3f0acff-bf31-4479-ac7b-e2d64d5f218b": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "b2a7cab6-33de-4de5-99c4-a2705c77ff23"
+        },
+        "e479fb8f-f430-40f4-a1c6-0c4e6f1fd72d": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "41f9f48d-d66f-46c4-b320-3d71f06dbafb"
+        },
+        "f4f2991b-d46c-492e-b2b6-beacc3120e00": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "6bed01e0-2e3d-48aa-a8d6-17e473dacae7"
+        },
+        "f5ac41ed-7d82-44b2-8d6b-a60285ac3e7b": {
+            "gate": "f2d12fab-5fb8-43a8-9392-0ec738890911",
+            "pin": "333b15af-871a-4649-ab17-2585651e3505"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "display",
+        "header",
+        "led"
+    ],
+    "type": "part",
+    "uuid": "39943ca6-d5c8-4ac3-8184-bc0d236930a3",
+    "value": [
+        false,
+        ""
+    ]
+}

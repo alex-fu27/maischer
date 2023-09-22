@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "14035363-712b-4cb7-9c9b-8d653c5f4804": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b161400e-a3a0-49e0-8492-2c53a7075dc8"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "TUSB320",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "usb"
+    ],
+    "type": "entity",
+    "uuid": "634c465d-bac7-4e92-8a48-f0805f5f0bd4"
+}
