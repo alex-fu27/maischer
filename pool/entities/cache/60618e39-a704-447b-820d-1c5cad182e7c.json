@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "f0835a46-d63c-4827-83f1-63dcf58ebf43": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8901f3f2-7122-405f-add1-2882d6e119b1"
+        }
+    },
+    "manufacturer": "Molex",
+    "name": "0475710001",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "micro-sd",
+        "sd-card"
+    ],
+    "type": "entity",
+    "uuid": "60618e39-a704-447b-820d-1c5cad182e7c"
+}

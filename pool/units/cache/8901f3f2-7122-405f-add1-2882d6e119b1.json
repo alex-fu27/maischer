@@ -1,6 +1,6 @@
 {
-    "manufacturer": "",
-    "name": "Generic SD Card Connector with Shield, Card Detection, Write Protect",
+    "manufacturer": "Molex",
+    "name": "0475710001",
     "pins": {
         "1c3eccc2-e86d-4553-b41d-366b5b0e5716": {
             "alt_names": {
@@ -107,19 +107,7 @@
         "ea0332ef-0b79-45cb-baa5-c500fc381ecb": {
             "direction": "passive",
             "names": [],
-            "primary_name": "CD",
-            "swap_group": 0
-        },
-        "f16a9b62-e513-4e94-b3d5-4664c031b11e": {
-            "alt_names": {
-                "8e8c8c62-6123-4048-94d6-d3b7586cec95": {
-                    "direction": "passive",
-                    "name": "VSS"
-                }
-            },
-            "direction": "passive",
-            "names": [],
-            "primary_name": "6",
+            "primary_name": "DET",
             "swap_group": 0
         },
         "f5e94c65-b895-4e99-8fd3-adcd08f9e4d5": {
@@ -141,11 +129,11 @@
         "ff412548-1995-45b7-b7f5-4d1a65223cdf": {
             "direction": "passive",
             "names": [],
-            "primary_name": "WP",
+            "primary_name": "POL",
             "swap_group": 0
         }
     },
     "type": "unit",
-    "uuid": "a8109eac-b006-4c3a-9af2-ec7cd8f8291a",
+    "uuid": "8901f3f2-7122-405f-add1-2882d6e119b1",
     "version": 1
 }

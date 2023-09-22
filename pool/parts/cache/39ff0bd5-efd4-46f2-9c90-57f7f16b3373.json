@@ -1,0 +1,89 @@
+{
+    "MPN": [
+        false,
+        "0475710001"
+    ],
+    "datasheet": [
+        false,
+        "https://tools.molex.com/pdm_docs/sd/475710001_sd.pdf"
+    ],
+    "description": [
+        false,
+        "CONN MICRO SD CARD PUSH-PULL R/A"
+    ],
+    "entity": "60618e39-a704-447b-820d-1c5cad182e7c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Molex"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "11dd16dc-99f9-4485-a8d9-e4420117d51f",
+    "pad_map": {
+        "07725e6d-7479-4d82-b64b-3c1aa3cee2ee": {
+            "gate": "f0835a46-d63c-4827-83f1-63dcf58ebf43",
+            "pin": "48fd9ce2-cc74-47ed-b0ff-ed6b46b007d8"
+        },
+        "1b359af4-b0a4-4307-aa17-5aca7aa45ec4": {
+            "gate": "f0835a46-d63c-4827-83f1-63dcf58ebf43",
+            "pin": "1c3eccc2-e86d-4553-b41d-366b5b0e5716"
+        },
+        "2875638e-d631-4a83-9db5-febf7da862a4": {
+            "gate": "f0835a46-d63c-4827-83f1-63dcf58ebf43",
+            "pin": "ea0332ef-0b79-45cb-baa5-c500fc381ecb"
+        },
+        "2f321834-ccc6-40d3-ab80-dbad5c3ed7ee": {
+            "gate": "f0835a46-d63c-4827-83f1-63dcf58ebf43",
+            "pin": "95e647a4-7b7a-485f-b490-f5adcd8c0f44"
+        },
+        "3ffb9efc-e796-4596-a1a9-0adf51c2ad34": {
+            "gate": "f0835a46-d63c-4827-83f1-63dcf58ebf43",
+            "pin": "63da74ef-18f9-4068-bcb1-7f727d1f656b"
+        },
+        "86713275-2fa4-4d80-942a-a7219dcb65de": {
+            "gate": "f0835a46-d63c-4827-83f1-63dcf58ebf43",
+            "pin": "dfb05d4d-3c56-4247-b657-8c10babca32d"
+        },
+        "8ea0b4be-1040-49be-ae67-b7f504f1da22": {
+            "gate": "f0835a46-d63c-4827-83f1-63dcf58ebf43",
+            "pin": "bf932b39-5067-47b6-9063-88b688377f1b"
+        },
+        "976747c6-e165-4e1f-bc3a-55effb58d236": {
+            "gate": "f0835a46-d63c-4827-83f1-63dcf58ebf43",
+            "pin": "f5e94c65-b895-4e99-8fd3-adcd08f9e4d5"
+        },
+        "a9df94b9-2cb5-42fb-abe5-0e83f21d0d9d": {
+            "gate": "f0835a46-d63c-4827-83f1-63dcf58ebf43",
+            "pin": "9c0e2e10-6ca5-4cbf-837f-7f3798bb8b46"
+        },
+        "cdba9ead-d098-404d-b6d8-53808f7add98": {
+            "gate": "f0835a46-d63c-4827-83f1-63dcf58ebf43",
+            "pin": "bf932b39-5067-47b6-9063-88b688377f1b"
+        },
+        "e41b3d14-8a34-4582-b71e-942c91ce8096": {
+            "gate": "f0835a46-d63c-4827-83f1-63dcf58ebf43",
+            "pin": "bf932b39-5067-47b6-9063-88b688377f1b"
+        },
+        "eca0a280-c39a-4fec-9b51-5d9d11a3a1fe": {
+            "gate": "f0835a46-d63c-4827-83f1-63dcf58ebf43",
+            "pin": "ff412548-1995-45b7-b7f5-4d1a65223cdf"
+        },
+        "f82c46e3-0c7a-4783-bc14-3ef022fda7d9": {
+            "gate": "f0835a46-d63c-4827-83f1-63dcf58ebf43",
+            "pin": "2898e21e-e381-4b85-86a9-b2d58e10adcb"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "micro-sd",
+        "sd-card"
+    ],
+    "type": "part",
+    "uuid": "39ff0bd5-efd4-46f2-9c90-57f7f16b3373",
+    "value": [
+        false,
+        ""
+    ]
+}
