@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "701a9a04-8af5-4ac0-86d2-997adb8cdd77": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7a3a5af5-ae98-4898-ae6f-9e28ff33d02e"
+        }
+    },
+    "manufacturer": "Micro Crystal",
+    "name": "RV-8263-C7",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "rtc"
+    ],
+    "type": "entity",
+    "uuid": "264d67b4-8e1f-40ea-9aad-d6825d61e3c6"
+}

@@ -1,0 +1,50 @@
+{
+    "manufacturer": "Micro Crystal",
+    "name": "RV-8263-C7",
+    "pins": {
+        "2068773a-aea7-46eb-9279-2e5da18b479d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "28b0d629-dc78-4696-9d1b-bef6fb46cf65": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLKOE",
+            "swap_group": 0
+        },
+        "5176e27e-8b67-4d60-88f3-0e0998ea6620": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "6ebc1aa8-9ff2-4f02-8b25-17c2c9da873c": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "~INT",
+            "swap_group": 0
+        },
+        "8688614c-54ed-4030-b61d-7f1561db2f40": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "bcbc1081-fac6-4717-b58c-f52138133bdb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "CLKOUT",
+            "swap_group": 0
+        },
+        "f43a7e19-9003-4343-8d16-0ed3b0328778": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7a3a5af5-ae98-4898-ae6f-9e28ff33d02e"
+}

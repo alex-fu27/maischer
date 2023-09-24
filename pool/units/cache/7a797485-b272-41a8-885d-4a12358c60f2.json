@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "TODO",
+    "pins": {
+        "c352b333-6e5b-409e-aff9-e7c18c8df312": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "TODO",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7a797485-b272-41a8-885d-4a12358c60f2"
+}
